@@ -1,0 +1,1 @@
+/* https://teachablemachine.withgoogle.com/models/Nc0EU27le/ */
